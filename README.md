@@ -1,4 +1,6 @@
-# Lab Day 19 - GraphRAG With Tech Company Corpus
+# Day19-2A202600127-MaiTanThanh
+
+Lab Day 19 - GraphRAG With Tech Company Corpus.
 
 This project builds a small GraphRAG pipeline from Wikipedia pages about technology companies.
 
@@ -31,6 +33,7 @@ The script writes files to `outputs/`:
 - `tech_company_graph.png`: screenshot/visualization of the knowledge graph.
 - `benchmark_results.csv`: 20-question comparison between Flat RAG and GraphRAG.
 - `benchmark_results.md`: report table for submission.
+- `submission_report.md`: Vietnamese submission report.
 - `triples.json`: extracted entity-relation triples.
 - `corpus_wiki.json`: Wikipedia corpus cache.
 - `run_summary.json`: runtime and token/cost-related metadata.
