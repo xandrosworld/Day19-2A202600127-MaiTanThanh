@@ -1,0 +1,933 @@
+[
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Sam Altman",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Elon Musk",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Greg Brockman",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Ilya Sutskever",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "Wojciech Zaremba",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_IN",
+    "object": "2015",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INVESTED_IN",
+    "object": "OpenAI",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Google",
+    "relation": "FOUNDED_BY",
+    "object": "Larry Page",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Google",
+    "relation": "FOUNDED_BY",
+    "object": "Sergey Brin",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Google",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Alphabet Inc.",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "FOUNDED_BY",
+    "object": "Bill Gates",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "FOUNDED_BY",
+    "object": "Paul Allen",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "CEO",
+    "object": "Satya Nadella",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Meta Platforms",
+    "relation": "FOUNDED_BY",
+    "object": "Mark Zuckerberg",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Meta Platforms",
+    "relation": "OWNS",
+    "object": "Facebook",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Meta Platforms",
+    "relation": "OWNS",
+    "object": "Instagram",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Meta Platforms",
+    "relation": "OWNS",
+    "object": "WhatsApp",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Amazon",
+    "relation": "FOUNDED_BY",
+    "object": "Jeff Bezos",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Amazon",
+    "relation": "DEVELOPS",
+    "object": "Amazon Web Services",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Apple",
+    "relation": "FOUNDED_BY",
+    "object": "Steve Jobs",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Apple",
+    "relation": "FOUNDED_BY",
+    "object": "Steve Wozniak",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Apple",
+    "relation": "FOUNDED_BY",
+    "object": "Ronald Wayne",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Apple",
+    "relation": "KNOWN_FOR",
+    "object": "iPhone",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Apple",
+    "relation": "KNOWN_FOR",
+    "object": "Mac",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Apple",
+    "relation": "KNOWN_FOR",
+    "object": "iPad",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Apple",
+    "relation": "DEVELOPS",
+    "object": "iOS",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "FOUNDED_BY",
+    "object": "Jensen Huang",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "KNOWN_FOR",
+    "object": "GPUs",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "KNOWN_FOR",
+    "object": "AI accelerators",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Anthropic",
+    "relation": "FOUNDED_BY",
+    "object": "Dario Amodei",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Anthropic",
+    "relation": "FOUNDED_BY",
+    "object": "Daniela Amodei",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Anthropic",
+    "relation": "DEVELOPS",
+    "object": "Claude",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "OWNS",
+    "object": "Google",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "Google",
+    "relation": "ACQUIRED",
+    "object": "DeepMind",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "DeepMind",
+    "relation": "DEVELOPED",
+    "object": "AlphaGo",
+    "source_title": "curated_seed",
+    "source_url": "curated_seed"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_IN",
+    "object": "Delaware",
+    "source_title": "OpenAI",
+    "source_url": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_BY",
+    "object": "OpenAI Founders",
+    "source_title": "OpenAI",
+    "source_url": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "FOUNDED_AS",
+    "object": "nonprofit",
+    "source_title": "OpenAI",
+    "source_url": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "PARENT_COMPANY",
+    "object": "OpenAI Global, LLC",
+    "source_title": "OpenAI",
+    "source_url": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPS",
+    "object": "GPT",
+    "source_title": "OpenAI",
+    "source_url": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPS",
+    "object": "DALL-E",
+    "source_title": "OpenAI",
+    "source_url": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPS",
+    "object": "Sora",
+    "source_title": "OpenAI",
+    "source_url": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "DEVELOPS",
+    "object": "ChatGPT",
+    "source_title": "OpenAI",
+    "source_url": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "OWNED_BY",
+    "object": "OpenAI nonprofit (26%)",
+    "source_title": "OpenAI",
+    "source_url": "https://en.wikipedia.org/wiki/OpenAI"
+  },
+  {
+    "subject": "Google",
+    "relation": "FOUNDED_IN",
+    "object": "1998",
+    "source_title": "Google",
+    "source_url": "https://en.wikipedia.org/wiki/Google"
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "PARENT_COMPANY",
+    "object": "Google",
+    "source_title": "Google",
+    "source_url": "https://en.wikipedia.org/wiki/Google"
+  },
+  {
+    "subject": "Larry Page",
+    "relation": "CEO",
+    "object": "Google (former)",
+    "source_title": "Google",
+    "source_url": "https://en.wikipedia.org/wiki/Google"
+  },
+  {
+    "subject": "Sundar Pichai",
+    "relation": "CEO",
+    "object": "Google",
+    "source_title": "Google",
+    "source_url": "https://en.wikipedia.org/wiki/Google"
+  },
+  {
+    "subject": "Sundar Pichai",
+    "relation": "CEO",
+    "object": "Alphabet Inc.",
+    "source_title": "Google",
+    "source_url": "https://en.wikipedia.org/wiki/Google"
+  },
+  {
+    "subject": "Waymo",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Alphabet Inc.",
+    "source_title": "Google",
+    "source_url": "https://en.wikipedia.org/wiki/Google"
+  },
+  {
+    "subject": "YouTube",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Google",
+    "source_title": "Google",
+    "source_url": "https://en.wikipedia.org/wiki/Google"
+  },
+  {
+    "subject": "Google",
+    "relation": "DEVELOPS",
+    "object": "Google Search",
+    "source_title": "Google",
+    "source_url": "https://en.wikipedia.org/wiki/Google"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "FOUNDED_IN",
+    "object": "1975",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "FOUNDED_IN",
+    "object": "Redmond, Washington",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "LinkedIn",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "Skype Technologies",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "ACQUIRED",
+    "object": "Activision Blizzard",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Microsoft Mobile",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "DEVELOPS",
+    "object": "Azure",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "OWNS",
+    "object": "Xbox",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "DEVELOPS",
+    "object": "Windows",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "DEVELOPS",
+    "object": "Microsoft Office",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "DEVELOPS",
+    "object": "Microsoft 365",
+    "source_title": "Microsoft",
+    "source_url": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  {
+    "subject": "Meta Platforms, Inc.",
+    "relation": "FOUNDED_BY",
+    "object": "TheFacebook, Inc.",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "TheFacebook, Inc.",
+    "relation": "FOUNDED_BY",
+    "object": "Facebook, Inc.",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "TheFacebook, Inc.",
+    "relation": "FOUNDED_IN",
+    "object": "2004",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Facebook, Inc.",
+    "relation": "REBRANDED_TO",
+    "object": "Meta Platforms, Inc.",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Meta Platforms, Inc.",
+    "relation": "FOUNDED_IN",
+    "object": "2021",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Meta Platforms, Inc.",
+    "relation": "KNOWN_FOR",
+    "object": "Facebook",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Meta Platforms, Inc.",
+    "relation": "KNOWN_FOR",
+    "object": "Instagram",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Meta Platforms, Inc.",
+    "relation": "KNOWN_FOR",
+    "object": "WhatsApp",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Meta Platforms, Inc.",
+    "relation": "KNOWN_FOR",
+    "object": "Messenger",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Meta Platforms, Inc.",
+    "relation": "KNOWN_FOR",
+    "object": "Threads",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Meta Platforms, Inc.",
+    "relation": "KNOWN_FOR",
+    "object": "Manus",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Meta Platforms, Inc.",
+    "relation": "FOUNDED_BY",
+    "object": "Meta Platforms",
+    "source_title": "Meta Platforms",
+    "source_url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+  },
+  {
+    "subject": "Amazon",
+    "relation": "FOUNDED_IN",
+    "object": "Bellevue, Washington",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Amazon",
+    "relation": "PARENT_COMPANY",
+    "object": "Amazon.com, Inc.",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Amazon",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Amazon.com, Inc.",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Amazon Web Services",
+    "relation": "DEVELOPS",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Amazon Web Services",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "AWS",
+    "relation": "FOUNDED_BY",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Ring",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Twitch",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "IMDb",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Whole Foods Market",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Amazon Publishing",
+    "relation": "DEVELOPS",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Amazon MGM Studios",
+    "relation": "DEVELOPS",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Metro-Goldwyn-Mayer",
+    "relation": "ACQUIRED_BY",
+    "object": "Amazon",
+    "source_title": "Amazon (company)",
+    "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+  },
+  {
+    "subject": "Apple",
+    "relation": "FOUNDED_IN",
+    "object": "1976",
+    "source_title": "Apple Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Apple_Inc."
+  },
+  {
+    "subject": "Apple Computer Company",
+    "relation": "FOUNDED_BY",
+    "object": "Steve Jobs",
+    "source_title": "Apple Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Apple_Inc."
+  },
+  {
+    "subject": "Apple Computer Company",
+    "relation": "FOUNDED_BY",
+    "object": "Steve Wozniak",
+    "source_title": "Apple Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Apple_Inc."
+  },
+  {
+    "subject": "Apple Computer, Inc.",
+    "relation": "FOUNDED_IN",
+    "object": "1977",
+    "source_title": "Apple Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Apple_Inc."
+  },
+  {
+    "subject": "Apple",
+    "relation": "RENAME_TO",
+    "object": "Apple",
+    "source_title": "Apple Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Apple_Inc."
+  },
+  {
+    "subject": "Apple",
+    "relation": "ACQUIRED",
+    "object": "NeXT",
+    "source_title": "Apple Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Apple_Inc."
+  },
+  {
+    "subject": "NeXT",
+    "relation": "PARENT_COMPANY",
+    "object": "Apple",
+    "source_title": "Apple Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Apple_Inc."
+  },
+  {
+    "subject": "Tim Cook",
+    "relation": "CEO_OF",
+    "object": "Apple",
+    "source_title": "Apple Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Apple_Inc."
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "FOUNDED_BY",
+    "object": "Chris Malachowsky",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "FOUNDED_BY",
+    "object": "Curtis Priem",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "FOUNDED_IN",
+    "object": "1993",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "DEVELOPS",
+    "object": "GPUs",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "DEVELOPS",
+    "object": "SoCs",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "DEVELOPS",
+    "object": "APIs",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "KNOWN_FOR",
+    "object": "GeForce GPUs",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "KNOWN_FOR",
+    "object": "Tegra",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "INVESTED_IN",
+    "object": "CUDA",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Nvidia",
+    "relation": "PARENT_COMPANY",
+    "object": "Nvidia",
+    "source_title": "Nvidia",
+    "source_url": "https://en.wikipedia.org/wiki/Nvidia"
+  },
+  {
+    "subject": "Anthropic",
+    "relation": "FOUNDED_IN",
+    "object": "2021",
+    "source_title": "Anthropic",
+    "source_url": "https://en.wikipedia.org/wiki/Anthropic"
+  },
+  {
+    "subject": "Anthropic",
+    "relation": "CEO",
+    "object": "Dario Amodei",
+    "source_title": "Anthropic",
+    "source_url": "https://en.wikipedia.org/wiki/Anthropic"
+  },
+  {
+    "subject": "Anthropic",
+    "relation": "CEO",
+    "object": "Daniela Amodei",
+    "source_title": "Anthropic",
+    "source_url": "https://en.wikipedia.org/wiki/Anthropic"
+  },
+  {
+    "subject": "Anthropic",
+    "relation": "KNOWN_FOR",
+    "object": "Claude",
+    "source_title": "Anthropic",
+    "source_url": "https://en.wikipedia.org/wiki/Anthropic"
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "FOUNDED_IN",
+    "object": "Mountain View, California",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "FOUNDED_BY",
+    "object": "Larry Page",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "FOUNDED_BY",
+    "object": "Sergey Brin",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "PARENT_COMPANY",
+    "object": "Waymo",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "PARENT_COMPANY",
+    "object": "Verily",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "CEO",
+    "object": "Sundar Pichai",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Page",
+    "relation": "CEO",
+    "object": "Sundar Pichai",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Sergey Brin",
+    "relation": "BOARD_MEMBER",
+    "object": "Alphabet Inc.",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Larry Page",
+    "relation": "BOARD_MEMBER",
+    "object": "Alphabet Inc.",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "ACQUIRED",
+    "object": "Uber (self-driving tech dispute)",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "Alphabet Inc.",
+    "relation": "INVESTED_IN",
+    "object": "Google+ (privacy settlement context)",
+    "source_title": "Alphabet Inc.",
+    "source_url": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "relation": "FOUNDED_IN",
+    "object": "United Kingdom",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "relation": "FOUNDED_BY",
+    "object": "DeepMind Technologies Limited",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "relation": "ACQUIRED",
+    "object": "Google",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "relation": "SUBSIDIARY_OF",
+    "object": "Alphabet Inc.",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "relation": "PARENT_COMPANY",
+    "object": "Alphabet Inc.",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "Google",
+    "relation": "MERGED_WITH",
+    "object": "Google Brain",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "relation": "FOUNDED_BY",
+    "object": "Alphabet Inc.",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "relation": "KNOWN_FOR",
+    "object": "AlphaGo",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "AlphaGo",
+    "relation": "DEVELOPS",
+    "object": "DeepMind",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "relation": "DEVELOPS",
+    "object": "MuZero",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "relation": "DEVELOPS",
+    "object": "AlphaStar",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "relation": "DEVELOPS",
+    "object": "AlphaFold",
+    "source_title": "Google DeepMind",
+    "source_url": "https://en.wikipedia.org/wiki/Google_DeepMind"
+  }
+]

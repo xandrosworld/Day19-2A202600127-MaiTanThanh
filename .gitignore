@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+outputs/flat_rag_embeddings.json
+Baitap-anh*.png

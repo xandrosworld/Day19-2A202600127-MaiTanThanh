@@ -1,0 +1,56 @@
+{
+  "model": "gpt-5-nano-2025-08-07",
+  "embedding_model": "text-embedding-3-small",
+  "flat_rag_retrieval": "OpenAI embeddings with FAISS if installed, otherwise numpy cosine similarity",
+  "corpus_pages": [
+    {
+      "title": "OpenAI",
+      "source": "https://en.wikipedia.org/wiki/OpenAI"
+    },
+    {
+      "title": "Google",
+      "source": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "title": "Microsoft",
+      "source": "https://en.wikipedia.org/wiki/Microsoft"
+    },
+    {
+      "title": "Meta Platforms",
+      "source": "https://en.wikipedia.org/wiki/Meta_Platforms"
+    },
+    {
+      "title": "Amazon (company)",
+      "source": "https://en.wikipedia.org/wiki/Amazon_(company)"
+    },
+    {
+      "title": "Apple Inc.",
+      "source": "https://en.wikipedia.org/wiki/Apple_Inc."
+    },
+    {
+      "title": "Nvidia",
+      "source": "https://en.wikipedia.org/wiki/Nvidia"
+    },
+    {
+      "title": "Anthropic",
+      "source": "https://en.wikipedia.org/wiki/Anthropic"
+    },
+    {
+      "title": "Alphabet Inc.",
+      "source": "https://en.wikipedia.org/wiki/Alphabet_Inc."
+    },
+    {
+      "title": "Google DeepMind",
+      "source": "https://en.wikipedia.org/wiki/Google_DeepMind"
+    }
+  ],
+  "triple_count": 133,
+  "node_count": 110,
+  "edge_count": 133,
+  "llm_calls": 61,
+  "input_tokens": 23996,
+  "output_tokens": 1225,
+  "llm_elapsed_seconds": 72.64,
+  "total_elapsed_seconds": 73.87,
+  "note": "Token counts come from OpenAI API usage fields when available. Use current OpenAI pricing to convert tokens to money."
+}
